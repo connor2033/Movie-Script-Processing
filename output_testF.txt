@@ -1,0 +1,8 @@
+
+Word to be found: dead
+	Filename: The_Souls_Of Black_Folk.txt
+		[31901, 32566, 35592, 41664, 65800, 68225]
+	Filename: Pride_and_Prejudice.txt
+		[93273]
+	Filename: Frankenstein.txt
+		[13711, 15587, 22838, 25236, 27095, 46394, 66370, 69297, 69979, 70302, 74021, 74681, 75828]
